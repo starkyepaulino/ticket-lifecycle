@@ -62,4 +62,4 @@ When the issue has been resolved, the ticket can be closed. Now the ticket will 
 <br>
 
 Thank You for reading!
-For the the next tutorial in this series go [here](https://github.com/afisaminou/)
+For the the next tutorial in this series go [here](https://github.com/starkyepaulino)
